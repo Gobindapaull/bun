@@ -1,0 +1,6 @@
+bun -v
+bunx -v
+bun create next-app --version
+bunx create next-app@14.2.14
+bun run dev
+bun install
